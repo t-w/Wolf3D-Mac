@@ -1,4 +1,4 @@
-#include "wolfdef.h"
+#include "WolfDef.h"
 #include <string.h>
 
 /* static object info*/

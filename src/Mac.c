@@ -4,7 +4,7 @@
 
 *********************/
 
-#include "Wolfdef.h"		/* All the game equates */
+#include "WolfDef.h"		/* All the game equates */
 #include <string.h>
 #include <ctype.h>
 #include <setjmp.h>
@@ -13,7 +13,7 @@
 #include <Gestalt.h>
 #include "SoundMusicSystem.h"
 #include "PickAMonitor.h"
-#include "Hidemenubar.h"
+#include "HideMenuBar.h"
 #include "Prefs.h"
 #include <AppleEvents.h>
 
